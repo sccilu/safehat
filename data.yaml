@@ -1,0 +1,7 @@
+train: /Users/johnson/Desktop/Joh/Python/safehat/data/train/images
+val: /Users/johnson/Desktop/Joh/Python/safehat/data/valid/images
+test: /Users/johnson/Desktop/Joh/Python/safehat/data/test/images
+
+nc: 10
+names: ['Hardhat', 'Mask', 'NO-Hardhat', 'NO-Mask', 'NO-Safety Vest', 'Person', 'Safety Cone', 'Safety Vest', 'machinery', 'vehicle']
+
